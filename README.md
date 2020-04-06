@@ -1,4 +1,4 @@
-# bba
+# BBA Website
 
 ## Guide
 1. Clone or Download Repository
